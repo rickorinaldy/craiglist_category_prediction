@@ -34,9 +34,6 @@ cities = [
     'zurich.en'
 ]
 
-with open('encoder/tfidf_vectorizer.pkl', 'rb') as f:
-    vectorizer = pickle.load(f)
-
 with open('encoder/section_label_encoder.pkl', 'rb') as f:
     section_label_encoder = pickle.load(f)
 
