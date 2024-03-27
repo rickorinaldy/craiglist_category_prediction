@@ -5,4 +5,4 @@ heading of the post.
 User interface access link:
 https://craiglistcategoryprediction-2ymtkbvw3br7tnjdaukgvh.streamlit.app/
 
-![ScreenShot](/screenshot UI.png)
+![ScreenShot](https://raw.githubusercontent.com/rickorinaldy/craiglist_category_prediction/main/screenshot%20UI.png)
